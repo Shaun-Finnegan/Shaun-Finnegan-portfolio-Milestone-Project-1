@@ -132,6 +132,35 @@ span{
     
   }
 
+  .index-intro-h1{
+    margin-top: 10%;
+    font-family: 'Pacifico', cursive;
+   font-size: 300%;
+   color: #fff;
+   text-align: center;
+}
+
+.intro h2{
+  font-size: 300%;
+  color: #fff;
+  text-align: center;
+}
+
+
+.intro h3{
+ font-size: 300%;
+ color: #fff;
+ text-align: center;
+}
+
+.intro h4{
+ font-size: 300%;
+ margin-bottom: 10%;
+ color: #fff;
+ text-align: center;
+ 
+}
+
 
 .footer{
     background-color: #000;
