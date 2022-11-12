@@ -321,6 +321,30 @@ p{
 }
 
 
+/*Projects*/
+
+.wrapper-projects{
+  display: grid;
+  height: 100%;
+  width: 100%;
+  gap: .2em;
+   grid-template-columns: 1fr;
+  grid-template-rows: auto .5fr 1fr 1fr 1fr 1fr 1fr 1fr 100px ;
+  grid-template-areas:
+    "nav"
+  "project-intro"
+  "p1-container"
+  "p1"
+  "p2-container"
+  "p2"
+  "p3-container"
+  "p3"  
+  "footer"
+}
+
+
+
+
 .footer{
     background-color: #000;
     grid-column: span 4;
