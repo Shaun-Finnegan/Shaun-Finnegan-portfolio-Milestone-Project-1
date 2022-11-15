@@ -573,160 +573,316 @@ textarea{
 }
 
 
+
 /* Home Page Media Quiries*/  
 
 @media screen and (min-width: 576px){
   .wrapper-index{
-  height: 100%;
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: auto 1fr 150px;
-   gap:.2rem;
-  grid-template-areas:
-    "nav nav nav nav"
-    "intro intro background background"
-    "footer footer footer footer"
+   display: grid;
+   height: 100%;
+   width:100%;
+   gap: .2em;
+   grid-template-columns: 1fr;
+   grid-template-rows: auto 1fr 1fr 100px;
+   grid-template-areas:
+     "nav"
+     "intro"
+     "background"
+     "footer"
   }
-  .logo{
-    display: block;
-  margin-right: auto;
-  color:#fff;
-  text-decoration: none;
-  }
-  .home a:hover{
-  font-size: 110%;
-    background-color: #fff;
-    color: #000;
+ .logo{
+   display: block;
+ margin-right: auto;
+ color:#fff;
+ text-decoration: none;
+ }
+ .home a:hover{
+ font-size: 110%;
+   background-color: #fff;
+   color: #000;
 }
 
 .me a:hover{
-    font-size: 110%;
-  background-color: #fff;
-  color: #000;
-  
+   font-size: 110%;
+ background-color: #fff;
+ color: #000;
+ 
 }
 
 .projects a:hover{
-  font-size: 110%;
-    background-color: #fff;
-  color: #000;
+ font-size: 110%;
+   background-color: #fff;
+ color: #000;
 }
 
 .contact a:hover{
-  font-size: 110;
-    background-color: #fff;
+ font-size: 110;
+   background-color: #fff;
+  color: #000;
+}
+}
+
+@media screen and (min-width: 768px){
+ .wrapper{
+ height: 100%;
+ width: 100%;
+ padding: 0px;
+ margin: 0px;
+ display:grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ grid-template-rows: auto 1fr 1fr 1fr 150px;
+  gap:.2rem;
+ grid-template-areas:
+   "nav nav nav nav"
+  "about about about about"
+  "languages languages languages languages"
+   "hello hello hello hello"
+   "footer footer footer footer"
+}
+   .logo{
+   display: block;
+   margin-right: auto;
+   color:#fff;
+   text-decoration: none;
+ }
+   .home a:hover{
+ font-size: 110%;
+   background-color: #fff;
    color: #000;
 }
- }
-  
-  
+
+.me a:hover{
+   font-size: 110%;
+ background-color: #fff;
+ color: #000;
+ 
+}
+
+.projects a:hover{
+ font-size: 110%;
+   background-color: #fff;
+ color: #000;
+}
+
+.contact a:hover{
+ font-size: 110;
+   background-color: #fff;
+  color: #000;
+}
+}
+ 
 
 /* About Me Media Quiries*/  
 @media screen and (min-width: 576px){
-  .wrapper{
-  height: 100%;
-  width: 100%;
-  padding: 0px;
-  margin: 0px;
-  display:grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: auto 1fr 1fr 1fr 150px;
-   gap:.2rem;
-  grid-template-areas:
-    "nav nav nav nav"
-   "about about about about"
-   "languages languages languages languages"
-    "hello hello hello hello"
-    "footer footer footer footer"
+ .wrapper{
+ display: grid;
+ height: 100%;
+ width:100%;
+ gap: .2em;
+   grid-template-columns: 1fr;
+   grid-template-rows: auto 1fr 1fr 1fr 110px ;
+   grid-template-areas:
+     "nav"
+     "about"
+     "languages"
+     "hello"
+    "footer"
  }
-    .logo{
-    display: block;
-    margin-right: auto;
-    color:#fff;
-    text-decoration: none;
-  }
-    .home a:hover{
-  font-size: 110%;
-    background-color: #fff;
-    color: #000;
+}
+   .logo{
+   display: block;
+   margin-right: auto;
+   color:#fff;
+   text-decoration: none;
+ }
+   .home a:hover{
+ font-size: 110%;
+   background-color: #fff;
+   color: #000;
 }
 
 .me a:hover{
-    font-size: 110%;
-  background-color: #fff;
-  color: #000;
-  
+   font-size: 110%;
+ background-color: #fff;
+ color: #000;
+ 
 }
 
 .projects a:hover{
-  font-size: 110%;
-    background-color: #fff;
-  color: #000;
+ font-size: 110%;
+   background-color: #fff;
+ color: #000;
 }
 
 .contact a:hover{
-  font-size: 110;
-    background-color: #fff;
+ font-size: 110;
+   background-color: #fff;
+  color: #000;
+}
+}
+
+@media screen and (min-width: 768px){
+ .wrapper{
+ height: 100%;
+ width: 100%;
+ padding: 0px;
+ margin: 0px;
+ display:grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ grid-template-rows: auto 1fr 1fr 1fr 150px;
+  gap:.2rem;
+ grid-template-areas:
+   "nav nav nav nav"
+  "about about about about"
+  "languages languages languages languages"
+   "hello hello hello hello"
+   "footer footer footer footer"
+}
+   .logo{
+   display: block;
+   margin-right: auto;
+   color:#fff;
+   text-decoration: none;
+ }
+   .home a:hover{
+ font-size: 110%;
+   background-color: #fff;
    color: #000;
+}
+
+.me a:hover{
+   font-size: 110%;
+ background-color: #fff;
+ color: #000;
+ 
+}
+
+.projects a:hover{
+ font-size: 110%;
+   background-color: #fff;
+ color: #000;
+}
+
+.contact a:hover{
+ font-size: 110;
+   background-color: #fff;
+  color: #000;
 }
 }
 
 /*Projects media quiries*/
 @media screen and (min-width: 576px){
   .wrapper-projects{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: auto 1fr 1fr 1fr 1fr 100px;
-  gap:.2rem;
-  grid-template-areas:
-    "nav nav nav nav"
-  "project-intro project-intro project-intro project-intro"
-  "p1 p1 p1 p1-container"
-  "p2-container p2 p2 p2"
-  "p3 p3 p3 p3-container"
-  "footer footer footer footer"
-  }
+   display: grid;
+   height: 100%;
+   width: 100%;
+   gap: .2em;
+    grid-template-columns: 1fr;
+   grid-template-rows: auto .5fr 1fr 1fr 1fr 1fr 1fr 1fr 100px ;
+   grid-template-areas:
+     "nav"
+   "project-intro"
+   "p1-container"
+   "p1"
+   "p2-container"
+   "p2"
+   "p3-container"
+   "p3"  
+   "footer"
+ }
 
-    .logo{
-  display: block;
-  margin-right: auto;
-  color:#fff;
-  text-decoration: none;
-  }
-   .nav-bar{
-    justify-content: center;
-  }
+   .logo{
+ display: block;
+ margin-right: auto;
+ color:#fff;
+ text-decoration: none;
+ }
+  .nav-bar{
+   justify-content: center;
+ }
 
-  .footer{
-    justify-content: center;
-  }
-    .home a:hover{
-  font-size: 110%;
-    background-color: #fff;
-    color: #000;
+ .footer{
+   justify-content: center;
+ }
+   .home a:hover{
+ font-size: 110%;
+   background-color: #fff;
+   color: #000;
 }
 
 .me a:hover{
-    font-size: 110%;
-  background-color: #fff;
-  color: #000;
-  
+   font-size: 110%;
+ background-color: #fff;
+ color: #000;
+ 
 }
 
 .projects a:hover{
-  font-size: 110%;
-    background-color: #fff;
-  color: #000;
+ font-size: 110%;
+   background-color: #fff;
+ color: #000;
 }
 
 .contact a:hover{
-  font-size: 110;
-    background-color: #fff;
-   color: #000;
+ font-size: 110;
+   background-color: #fff;
+  color: #000;
 }
 }
 
+@media screen and (min-width: 768px){
+   .wrapper-projects{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ grid-template-rows: auto 1fr 1fr 1fr 1fr 100px;
+ gap:.2rem;
+ grid-template-areas:
+   "nav nav nav nav"
+ "project-intro project-intro project-intro project-intro"
+ "p1 p1 p1 p1-container"
+ "p2-container p2 p2 p2"
+ "p3 p3 p3 p3-container"
+ "footer footer footer footer"
+ }
+
+ .logo{
+ display: block;
+ margin-right: auto;
+ color:#fff;
+ text-decoration: none;
+ }
+  .nav-bar{
+   justify-content: center;
+ }
+
+ .footer{
+   justify-content: center;
+ }
+   .home a:hover{
+ font-size: 110%;
+   background-color: #fff;
+   color: #000;
+}
+
+.me a:hover{
+   font-size: 110%;
+ background-color: #fff;
+ color: #000;
+ 
+}
+
+.projects a:hover{
+ font-size: 110%;
+   background-color: #fff;
+ color: #000;
+}
+
+.contact a:hover{
+ font-size: 110;
+   background-color: #fff;
+  color: #000;
+}
+}
 
 
 
