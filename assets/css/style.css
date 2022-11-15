@@ -620,21 +620,19 @@ textarea{
 }
 
 @media screen and (min-width: 768px){
- .wrapper{
+ .wrapper-index{
  height: 100%;
  width: 100%;
  padding: 0px;
  margin: 0px;
  display:grid;
- grid-template-columns: 1fr 1fr 1fr 1fr;
- grid-template-rows: auto 1fr 1fr 1fr 150px;
+ grid-template-columns: 1fr 1fr ;
+ grid-template-rows: auto 1fr 150px;
   gap:.2rem;
  grid-template-areas:
-   "nav nav nav nav"
-  "about about about about"
-  "languages languages languages languages"
-   "hello hello hello hello"
-   "footer footer footer footer"
+   "nav nav "
+  "intro background"
+  "footer footer"
 }
    .logo{
    display: block;
@@ -683,7 +681,7 @@ textarea{
      "intro background"
     "footer footer"
  }
-}
+
    .logo{
    display: none;
    margin-right: auto;
@@ -715,6 +713,7 @@ textarea{
   color: #000;
 }
 }
+
 
 @media screen and (min-width: 768px){
  .wrapper{
