@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+
 
 
 
@@ -591,7 +588,7 @@ textarea{
      "footer"
   }
  .logo{
-   display: block;
+   display: none;
  margin-right: auto;
  color:#fff;
  text-decoration: none;
@@ -674,23 +671,21 @@ textarea{
 
 /* About Me Media Quiries*/  
 @media screen and (min-width: 576px){
- .wrapper{
+ .wrapper-index{
  display: grid;
  height: 100%;
  width:100%;
  gap: .2em;
-   grid-template-columns: 1fr;
-   grid-template-rows: auto 1fr 1fr 1fr 110px ;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: auto 1fr 110px ;
    grid-template-areas:
-     "nav"
-     "about"
-     "languages"
-     "hello"
-    "footer"
+     "nav nav"
+     "intro background"
+    "footer footer"
  }
 }
    .logo{
-   display: block;
+   display: none;
    margin-right: auto;
    color:#fff;
    text-decoration: none;
@@ -792,7 +787,7 @@ textarea{
  }
 
    .logo{
- display: block;
+ display: none;
  margin-right: auto;
  color:#fff;
  text-decoration: none;
