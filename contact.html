@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
   <script src="https://kit.fontawesome.com/ef0705155e.js" crossorigin="anonymous"></script>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
  <body>
@@ -29,7 +29,38 @@
         </a>
       </div> 
    </div>
-    <div class="footer">
+   <div class=form-container>
+    <div class="form-background">
+    <form method="POST" action="https://formdump.codeinstitute.net/">
+            <div class = "form-heading">
+              <h2 >Contact</h2>
+            </div>
+            <div class=" form-item">
+              <label for="fname">First Name</label>
+              <input type="text" id="fname" name="first_name" required/>
+            </div>
+            <div class = "form-item">
+              <label for="lname">Last Name</label>
+              <input type="text" id="lname" name="last_name" required/>
+            </div>
+            <div class = "form-item">
+              <label for="email">Email Address</label>
+              <input id="email" type="email" name="email_address" required/>
+            </div>
+            <div class= "form-item">
+              <textarea type = "text" placeholder= " Enter Text Here......."></textarea>
+            </div>
+            <div class = "form-item">
+              <input type="submit" class="submit" value="Submit"/>
+            </div>
+        </form>
+      </div>
+   </div>
+  <div class="profile-image-container">
+     <img src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=300" 
+       class="profile-image" alt="">
+   </div>
+   <div class="footer">
       <div class="linkedin">
         <a href="https://gb.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
       </div>
