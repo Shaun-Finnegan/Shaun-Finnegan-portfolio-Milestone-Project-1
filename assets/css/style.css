@@ -606,6 +606,7 @@ h2{
 #fname {
   font-size: 18px;
   border: 2px solid #000;
+  width: 45%;
 }
 
 #fname:hover{
@@ -616,6 +617,7 @@ h2{
 #lname {
   font-size: 18px;
   border: 2px solid #000;
+  width: 45%;
 }
 
 #lname:hover{
@@ -627,6 +629,7 @@ h2{
   font-size: 18px;
   border: 2px solid #000;
   margin-left: 3%;
+  width: 45%;
 }
 
 #email:hover{
