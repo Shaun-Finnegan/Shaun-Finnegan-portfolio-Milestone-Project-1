@@ -1,74 +1,72 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Shaun Finnegan Full Stack Software Developer</title>
-  <!--Font Awesome Link-->
+  <title>replit</title>
   <script src="https://kit.fontawesome.com/ef0705155e.js" crossorigin="anonymous"></script>
-  <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
- <body>
-   <!-- This is the wrapper for the whole of the content within the body section. 
-  This is so that i can use 
-  CSS grid for the page design and layout -->
-   <div class="wrapper-contact">
-    <!--Nav Bsar and Logo-->
-     <div class="nav-bar">
-       <div class="logo">
+<body>
+  <div class="wrapper-contact">
+  <div class="nav-bar">
+    <div class="logo">
         <a href="index.html" class="logo"><h1>Shaun Finnegan</h1></a>
-       </div>
-       <div class="home">
+      </div>
+    <ul>    
+      <li>
+     <div class="home">
         <a  href="index.html" class="home"> <i class="fa-solid fa-house-chimney"></i><span>Home</span></a>
-       </div>
-       <div class="me">
+      </div>
+        </li>
+        <li>
+     <div class="me">
         <a  href="about.html" class="me"> <i class="fa-solid fa-user-graduate"></i><span>About</span></a>
       </div>
-      <div class="projects">
-        <a  href="projects.html" class="projects"> <i class="fa-regular fa-file-code"></i><span>Projects</span></a>
+          </li>
+       <li>
+     <div class="projects">
+       <a  href="projects.html" class="projects"> <i class="fa-regular fa-file-code"></i><span>Projects</span></a>
       </div>
+         </li>
+          <li>
       <div class="contact">
-        <a  href="contact.html" class="contact"> <i class="fa-solid fa-address-book"></i><span>Contact</span> 
+        <a  href="contact.html" class="contact active"> <i class="fa-solid fa-address-book"></i><span>Contact</span> 
         </a>
       </div> 
-   </div>
-   <!--Contact form section-->
-   <div class=form-container>
-    <div class="form-background">
-    <form method="POST" action="https://formdump.codeinstitute.net/">
-            <div class = "form-item">
-              <h2 >Contact</h2>
-            </div>
-            <div class=" form-item">
-              <label for="fname"> Name</label>
-              <input type="text" id="fname" name="first_name" required>
-            </div>
-            <div class = "form-item">
-              <label for="lname">Surname</label>
-              <input type="text" id="lname" name="last_name" required>
-            </div>
-            <div class = "form-item">
-              <label for="email">Email </label>
-              <input id="email" type="email" name="email_address" required>
-            </div>
-            <div class= "form-item">
-              <textarea>Type Your Message here</textarea>
-            </div>
-            <div class = "form-item">
-              <input type="submit" class="submit" value="Submit">
-            </div>
-        </form>
-      </div>
-   </div>
-   <!--Same Profile Image as the one on Home Page-->
-  <div class="profile-image-container">
-     <img src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=300" 
-       class="profile-image" alt="">
-   </div>
-   <!--Footer and Social Links-->
-   <div class="footer">
+        </li>
+    </ul>
+  </div>
+    <div class=form-container>
+      <div class="form-background">
+      <form method="POST" action="https://formdump.codeinstitute.net/">
+              <div class = "form-heading">
+                <h2 >Contact</h2>
+              </div>
+              <div class=" form-item">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="first_name" required/>
+              </div>
+              <div class = "form-item">
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="last_name" required/>
+              </div>
+              <div class = "form-item">
+                <label for="email">Email Address</label>
+                <input id="email" type="email" name="email_address" required/>
+              </div>
+              <div class= "form-item">
+                <textarea type = "text" placeholder= " Enter Text Here......."></textarea>
+              </div>
+              <div class = "form-item">
+                <input type="submit" class="submit" value="Submit"/>
+              </div>
+          </form>
+        </div>
+     </div>
+    <div class="footer">
       <div class="linkedin">
         <a href="https://gb.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
       </div>
@@ -82,7 +80,10 @@
         <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-square-twitter"></i></a>
       </div>
        <div class ="copyright"><p>Copyright Shaun Finnegan 2022</p></div>
-      </div>
     </div>
-  </body>
+  </div>
+</div>
+
+</body>
+
 </html>
