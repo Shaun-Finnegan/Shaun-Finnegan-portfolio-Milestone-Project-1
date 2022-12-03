@@ -1,4 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/* This is the style.css file for my 1st Milestone project
+The design was implimented with mobile 1st in mind
+so the styling has been designed with mobile devices 
+in mind and then the layout changes using media quiries for largwer screen sizes*/
+
+/*Contents
+25 - Universal Styles
+45 - css grid for home page
+60 - Logo & Navigation
+130 - Home Page
+207 - css grid for About Page
+232 - About Page
+366 - css grid for projects page
+398 - Projects Page
+512 - css grid for Contact page
+528 - Contact Page
+613- Footer & Social Links
+683 - Home Page Media Quiries
+767 - About Me Media Quiries
+846 - Projects Media Quiries
+*/
+
+/*Universal Styles*/
 *{
   border:0px;
   margin:0px;
@@ -18,9 +42,7 @@ body {
   position: relative;
   }
 
- 
-/*home page*/  
-
+ /*css grid wrapper for index page*/
   .wrapper-index{
     display: grid;
     height: 100%;
@@ -29,22 +51,19 @@ body {
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr 1fr 100px;
     grid-template-areas:
-      "nav"
-      "intro"
-      "background"
-      "footer"
-   }
+    "nav"
+    "intro"
+    "background"
+    "footer"
+}
 
-
-
-
+/*Logo & Navigation*/
 .nav-bar{
   width:100%;
   grid-column: span 4;
   background-color:#000;
   grid-area: nav;
- 
-}
+ }
 
 .nav-bar ul{
   padding: 0;
@@ -62,13 +81,11 @@ body {
   font-size: 100%;
 }
 
-
 .home{
   color:#fff;
     padding:20px;
     text-decoration: none;
 }
-
 
 .me{
   color:#fff;
@@ -110,6 +127,8 @@ span{
   text-decoration: underline;
 }
 
+/*Home Page*/
+
 .intro{
   background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=600");
   background-repeat: no-repeat;
@@ -118,7 +137,6 @@ span{
   grid-row: span 2;
    grid-area: intro;
 }
-
 
 .profile-image-container{
 background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=600");
@@ -137,8 +155,7 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
   border-radius: 50%;
   margin-top: 12.5%;
   object-fit: none;
-  
-}
+  }
 
 @keyframes fadeIn {
   0% {
@@ -150,8 +167,8 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
 }
 
 .index-intro-h1{
-     margin-top: 12.5%;
-   font-family: 'Pacifico', cursive;
+  margin-top: 12.5%;
+  font-family: 'Pacifico', cursive;
   font-size: 250%;
    cursor: pointer;
   animation: fadeIn 2s;
@@ -166,8 +183,6 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
   animation-direction: alternate;
   animation-timing-function: ease-in;
 }
-
-
 
 
 .intro h3{
@@ -189,9 +204,7 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
 }
 
 
-
-
-/*about me*/
+/*css grid positioning for About Page*/
 
 .wrapper{
   display: grid;
@@ -201,10 +214,10 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr 1fr 1fr 110px ;
     grid-template-areas:
-      "nav"
-      "about"
-      "languages"
-      "hello"
+    "nav"
+    "about"
+    "languages"
+     "hello"
      "footer"
   }
 
@@ -216,14 +229,14 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
     justify-content: center;
   }
 
+  /*About Me Page*/
+
  h1 {
   text-align: center;
   font-size: 200%;
   color: #fff;
   font-family: 'Pacifico', cursive;
 }
-
-
 
 h2{
   text-align: center;
@@ -289,9 +302,6 @@ p{
   margin-bottom: 25px;
 }
   
-
-
-
 .about{
   background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=600");
   background-repeat: no-repeat;
@@ -353,14 +363,14 @@ p{
   border: 4px solid #000;
 }
 
-/*Projects*/
+/*css grid for projects page*/
 
-  .wrapper-projects{
-    display: grid;
-    height: 100%;
+ .wrapper-projects{
+   display: grid;
+   height: 100%;
     width: 100%;
     gap: .2em;
-     grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
     grid-template-rows: auto 1fr .5fr 1fr .5fr 1fr .5fr 1fr 100px ;
     grid-template-areas:
       "nav"
@@ -378,12 +388,14 @@ p{
   display: none;
 }
 
-  .nav-bar{
-    justify-content: center;
-  }
+.nav-bar{
+  justify-content: center;
+ }
   .footer{
     justify-content: center;
   }
+
+  /*Projects Page*/
 
 .project-intro{
   grid-area: project-intro;
@@ -423,11 +435,9 @@ p{
   animation-timing-function: ease-in;
 }
 
-
 .project-img-1-container{
   grid-area: p1-container;
 }
-
 
 .project-img-1{
   display: block;
@@ -436,8 +446,7 @@ p{
  }
 
 
-
- .project-2{
+.project-2{
   grid-area: p2;
    background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=600");
   background-repeat: no-repeat;
@@ -452,12 +461,10 @@ p{
   animation: fadeIn 2s;
   animation-direction: alternate;
   animation-timing-function: ease-in;
-
 }
 
 .project-img-2-container{
   grid-area: p2-container;
-  
 }
 
 
@@ -495,81 +502,14 @@ p{
   height: 100%;
   width: 100%;
  }
+
  form.form-project{
   display: flex;
   justify-content: center;
  }
 
-.footer{
-  position: relative;
-  background-color: #000;
-   grid-area: footer;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-top: 1px solid #fff;
-  }
 
-.footer a{
-  margin-right: 15px;
-  
-}
-
-.linkedin a{
-  color:#fff;
-  font-size: 200%;
-  padding: 30px;
-}
-
-.facebook a {
-  color:#fff;
-  font-size: 200%;
-  padding: 30px;
-}
-
-.instagram a{
-  color:#fff;
-  font-size: 200%;
-  padding: 30px;
-}
-
-.twitter a{
-  color:#fff;
-  font-size: 200%;
-  padding: 30px;
-}
-
-.copyright{
-  position: absolute;
-  bottom: 0px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  font-size: 60%;
-}
-
-.linkedin a:hover{
-   color: brown;
-  font-size: 220%;
-}
-
-.facebook a:hover{
-  color: brown;
-    font-size: 220%;
-  
-}
-
-.instagram a:hover{
-   color: brown;
-    font-size: 220%;
-}
-
-.twitter a:hover{
-   color: brown;
-    font-size: 220%;
-}
-
-/*Contact Page*/
+/*css grid for contact page*/
 
 .wrapper-contact{
   display: grid;
@@ -585,6 +525,7 @@ p{
     "footer"
 }
 
+/*Contact Page*/
 
 .form-container {
   background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=600");
@@ -669,6 +610,75 @@ textarea {
   border: 1px solod #000;
 }
 
+/*Footer & social links*/
+
+.footer{
+  position: relative;
+  background-color: #000;
+   grid-area: footer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #fff;
+  }
+
+.footer a{
+  margin-right: 15px;
+  }
+
+.linkedin a{
+  color:#fff;
+  font-size: 200%;
+  padding: 30px;
+}
+
+.facebook a {
+  color:#fff;
+  font-size: 200%;
+  padding: 30px;
+}
+
+.instagram a{
+  color:#fff;
+  font-size: 200%;
+  padding: 30px;
+}
+
+.twitter a{
+  color:#fff;
+  font-size: 200%;
+  padding: 30px;
+}
+
+.copyright{
+  position: absolute;
+  bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  font-size: 60%;
+}
+
+.linkedin a:hover{
+   color: brown;
+  font-size: 220%;
+}
+
+.facebook a:hover{
+  color: brown;
+    font-size: 220%;
+  
+}
+
+.instagram a:hover{
+   color: brown;
+    font-size: 220%;
+}
+
+.twitter a:hover{
+   color: brown;
+    font-size: 220%;
+}
 
 /* Home Page Media Quiries*/  
 
@@ -707,8 +717,8 @@ textarea {
 
 .contact a:hover{
    text-decoration: underline;
+  }
 }
- }
 
 @media screen and (min-width: 768px){
   .wrapper-index{
@@ -916,8 +926,7 @@ textarea {
 
 .me a:hover{
      text-decoration: underline;
-  
-}
+  }
 
 .projects a:hover{
    text-decoration: underline;
