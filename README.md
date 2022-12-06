@@ -7,3 +7,17 @@ Welcome to Shaun Finnegan's portfolio website! This site will aim to showcase my
 The aim of this site is to provide an easy and accessible experience to any user wishing to view my site on any device. To allow the user to easily navigate between pages and to easily fnd the information they are searching for.
 
 The languages used to create this project will be HTML and CSS
+
+## Table of Contents
+1. User Experience
+  * 
+  1. Project Goals
+  2. User Experience
+  3. User Stories
+  
+2. Design
+    * 
+    1. Wireframes
+    2. Typeography
+    3. Structure
+
