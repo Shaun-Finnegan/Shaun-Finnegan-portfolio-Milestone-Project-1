@@ -1,2 +1,2 @@
 # Shaun Finnegan Full Stack Software Developer
-![Website Image on different devices](/assets/images/read me responsive.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
