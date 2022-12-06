@@ -10,12 +10,12 @@ The languages used to create this project will be HTML and CSS
 
 ## Table of Contents
 1. User Experience
-    1. Project Goals
-    2. User Experience
-    3. User Stories
+    * Project Goals
+    * nUser Experience
+    * User Stories
 
 2. Design
-    1. Wireframes
-    2. Typeography
-    3. Structure
+    * Wireframes
+    * Typeography
+    * Structure
 
