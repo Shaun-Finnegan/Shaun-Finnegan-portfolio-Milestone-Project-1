@@ -126,6 +126,19 @@ The languages used to create this project will be HTML and CSS
      * Tablet
      * Desktop
 
+
+
+    ## Color Scheme
+    The color scheme I have choosen for the site is based on the main background image for the site. the dominant color of the image is brown and Upon furthe research into color schemes I found this particular color scheme from [schemecolor.com](https://www.schemecolor.com/tan-brown-white-black.php#:~:text=Tan%20Brown%2C%20White%20%26%20Black%20Color%20Scheme%20The,This%20color%20combination%20was%20created%20by%20user%20Manish.).
+
+    deciding to keep the site as simple as posiible asthetically along with the brown I have decided upon the two additional colors of white (#fff) and black (#000)
+
+    ## Typeography
+
+    The fonts used within this project are pacifico and Areial, the decision behind this is that they are both commonly used wityhin website design and appear to compliment each other well. The pacifico font is primarily used for headings to help them stand out and the arial font for the main content to ensure the text is easy to read on any device size.
+
+
+
  
 
 
