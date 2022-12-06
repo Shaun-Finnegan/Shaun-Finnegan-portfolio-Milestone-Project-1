@@ -137,6 +137,18 @@ The languages used to create this project will be HTML and CSS
 
     The fonts used within this project are pacifico and Areial, the decision behind this is that they are both commonly used wityhin website design and appear to compliment each other well. The pacifico font is primarily used for headings to help them stand out and the arial font for the main content to ensure the text is easy to read on any device size.
 
+    ## Structure
+
+    The structure of the website is designed to be common place in regards to what a user would expect. The navigation menu is at the top of the page whilst the footer with social links is at the bottom of the page with the content in the middle.
+
+    TAhe navigation bar sat the top had an active class on each page so that the user knows exactly where they are within the website.
+
+    Each section of content is clearly defined with a header so the user knows exactly what to expect from each section of content.
+
+    The pages follow a clear order in regards to the way the content is layed out. So the user can go from the home page to the About me page, to the Projects page and finally the contact page, however the navigation bar fixed at the top of each page gives the user a choice of which pages they would like to view and in what order.
+
+    
+
 
 
  
