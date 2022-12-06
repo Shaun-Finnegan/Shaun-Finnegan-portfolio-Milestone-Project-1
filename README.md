@@ -1,2 +1,2 @@
 # Shaun Finnegan Full Stack Software Developer
-![alt text](read-me-responsive.png "Logo Title Text 1")
+![responsive-image](/assets/images/read me responsive.png "Logo Title Text 1")
