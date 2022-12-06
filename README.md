@@ -19,3 +19,27 @@ The languages used to create this project will be HTML and CSS
     * Typeography
     * Structure
 
+3. Features
+    * Active Navigation
+    * Profile Image
+    * Introduction
+    * About Me 
+    * Languages I'm Learning
+    * Projects Page
+    * Contact Page
+    * Footer
+    * Links to Socail Media
+4. Technologies Used
+    * Programming Languages
+    * Tools
+5. Testing
+    * Validator tests
+    * Cross Platform tests
+    * Performance Tests
+    * Responsiveness
+    * User Testing
+6. Bugs
+7. Deployment
+8. credits
+9. Improvements/ Wishlist
+
