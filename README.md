@@ -1,5 +1,6 @@
 # Shaun Finnegan Full Stack Software Developer
-![responsive-image](assets/images/read me responsive.png)
+![responsive-image](/assets/images/read me responsive.png)
+
 [View Live Site](https://shaun-finnegan.github.io/Shaun-Finnegan-portfolio-Milestone-Project-1/ )
 
 Welcome to Shaun Finnegan's portfolio website! This site will aim to showcase my work as I progress through my software development journey. The website will help both new and returning users to understand what projects I have worked on in the past, what projects I am currently working on and the skills I have gained and am working to develop. As well as allowing any users to get in touch with any questions or requests that they may have.
@@ -11,7 +12,7 @@ The languages used to create this project will be HTML and CSS
 ## Table of Contents
 1. User Experience
     * Project Goals
-    * nUser Experience
+    * User Experience
     * User Stories
 
 2. Design
@@ -42,4 +43,22 @@ The languages used to create this project will be HTML and CSS
 7. Deployment
 8. credits
 9. Improvements/ Wishlist
+
+## User Experience
+
+### Project Goals
+
+#### User Goals:
+
+* To learn about Shaun Finnegan
+* To understand Shaun Finnegan's strengths and capabilities
+* To be able to view a portfolio of work that has been produced by Shaun Finnegan
+* To be able to contact Shaun Finnegan with any further questions or quiries
+
+#### Site Owner Goals:
+* To allow visitors to understand what it is that I do
+* To give users an easy intuitive  and asthetically pleasing experience whilst using the site
+* To encourage users to reach out and make contact by using call to actions
+* To give users a positive experience that will encourage them to return to the site
+
 
