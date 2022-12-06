@@ -61,4 +61,54 @@ The languages used to create this project will be HTML and CSS
 * To encourage users to reach out and make contact by using call to actions
 * To give users a positive experience that will encourage them to return to the site
 
+## User Experience
+
+ ### Target Audience
+
+ * Prospective employers/Clients
+ * Other Software Engineers looking to collaberate
+
+ ### Requirements and Expectations
+
+ * A fully functioning and responsive website
+ * A site that is easy to navigate
+ * A site that is asthetically pleasing
+ * A way to contact the sites owner via a contact page
+ * A site that allows the user to find what they are looking for in no less than 3 clicks
+ * Links to github repositorys and social media pages
+
+
+ ## User Stories
+
+ ### First time User
+
+ A first time user should be able to :
+
+ * Arrive on the site and immediatley understand what the site is about
+ * Easily understand the site layout and be able to naviagate between the different pages
+ * Be able to clearly understand what each section is about and understand any call to actions
+ 
+
+ ### Returning Users
+
+ A returning user should be able to:
+ 
+ * Find the projects page and be able to access the GitHub repositorys
+ * Be ale to Contact the sites owner via the contact page
+
+
+ ### Site Owner
+
+ * Wants users to instantly know who and what the site is about
+ * Wants users to feel at ease when using the site and ensure that there are no steep learning curves involved in using the site
+ * Wants users to be able to understand the work I have undertaken and the technologies that I am currently learning.
+ * Wants users to be able to understand my strengths and what I can offer them as a deverloper
+ * Wants users to leave the site with a positive emotional response to the website
+
+ 
+
+
+
+
+
 
