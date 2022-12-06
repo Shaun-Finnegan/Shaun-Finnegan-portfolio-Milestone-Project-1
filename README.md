@@ -105,6 +105,27 @@ The languages used to create this project will be HTML and CSS
  * Wants users to be able to understand my strengths and what I can offer them as a deverloper
  * Wants users to leave the site with a positive emotional response to the website
 
+ ## Wireframes
+
+ The wireframes below where created throughout the design process with a mobile first approach in mind. The wireframes where created with a software called [Balsamiq](https://balsamiq.com/wireframes/)
+
+ 1. Home Page
+     * Mobile
+     * Tablet
+     * Desktop
+ 2. About Me Page
+     * Mobile
+     * Tablet
+     * Desktop
+ 3. Projects Page
+     * Mobile
+     * Tablet
+     * Desktop
+ 4. Contact Page
+     * Mobile
+     * Tablet
+     * Desktop
+
  
 
 
