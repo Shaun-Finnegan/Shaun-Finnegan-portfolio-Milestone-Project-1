@@ -216,6 +216,19 @@ The languages used to create this project will be HTML and CSS
       * GitPod
       * Balsamiq 
 
+
+      ## Testing
+
+      ### Cross Platform Testing
+      
+      Once deployed the site was tested on for seperate browsers, the browsers used where.
+      Google Chrome
+      Mozilla Firefox
+      Microsoft Edge
+      Safari
+
+      The site worked well on all four browsers and no descrepencies where found. 
+
    
 
 
