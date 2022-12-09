@@ -147,7 +147,25 @@ The languages used to create this project will be HTML and CSS
 
     The pages follow a clear order in regards to the way the content is layed out. So the user can go from the home page to the About me page, to the Projects page and finally the contact page, however the navigation bar fixed at the top of each page gives the user a choice of which pages they would like to view and in what order.
 
+    ## Features
+
+    ### Active Navigation Bar and Logo
     
+     The Navigation bar is situated at the top of each page on the website. It follows standard conventions within Web development and Web design. This ensures that users know what to expect when immediatley entering the website.
+
+     The Navigation Bar has 4 links including "Home" "About" "Projects" and "Xontact". When the users hovers over each navigation link it will appear underlined and when the user navigates to a particular page that page the title of that page will be underlined within the navigationbar so that the user knows exactly where they are within the structure of the website.
+
+     The Logo is also a link that when clicked will take the user to the home page. The Logo itself appears above the navigation links on all screen sizes.
+
+
+     ### Introduction and Profile Image
+
+     Underneath the navigation bar on the Home Page will appear a written introduction so that the user will instantly know what the website is about. The written introduction is also accompanied by a profile image so that the user has more of a connection with the portfolio website and actually get to see what the developer of the website looks like.
+
+
+     ### About Me Section
+
+     
 
 
 
