@@ -165,6 +165,41 @@ The languages used to create this project will be HTML and CSS
 
      ### About Me Section
 
+     The About Me section gives the user an understanding of what I am currently doing in regards to software development as well as any education or work experience that has been undertaken in the past.
+
+
+     ### Languages I am Learning Section
+
+     This section gives the user an overview of the languages I am currently learning throughout my studies. FontAwesome has been used by placing a logo of each coding language to make the section more accessible.
+
+
+     ### Get In Touch Section
+
+     This section gives the user a call to action. It is placed underneath the About Me section and Languages I am Learning Section, to give the user change to learn a bit more about the developer before in viting them to "Get In Touch" via a button that is a link to the Contact Page.
+
+     
+     ### Projects Section
+
+     The Projects Section consists of 3 subsections. Each section  consists of the title of the project and image of the final project, a written description of the project and a button which is a link to each projects GitHub repository.
+      The images are placed below the title and above the written description when the site is viewed on mobile and tablet devices however this changes when the site is viewed on larger screens as the images appear next to the descriptions ( See image below).
+
+
+    ### Contact Page
+
+    This gives both new and returning users the opportunity to contact the developer in regards to 
+    questions they may have in regards to the website, User Experience or the work that the developer has undertaken.
+
+    The fields requested are 
+    First Name
+    Last Name
+    Email
+    Message
+     The first 3 fields are required information and if one of the fields is incomplete there will be a prompt to remind the user to complete the missing information.
+
+
+     ### footer
+
+     The footer follows a similar format to the Logo and navigation bar, the footer contains 4 links using images aquired from FontAwesome. These links are designed to invite the user to visit the developers social media channels. The channelks being used are Faceboot, Instagram, Linkedin and Twitter.
      
 
 
