@@ -200,7 +200,24 @@ The languages used to create this project will be HTML and CSS
      ### footer
 
      The footer follows a similar format to the Logo and navigation bar, the footer contains 4 links using images aquired from FontAwesome. These links are designed to invite the user to visit the developers social media channels. The channelks being used are Faceboot, Instagram, Linkedin and Twitter.
-     
+
+
+    ## Technologies Used
+   
+   1. Languages
+      * HTML
+      * CSS
+
+   2. Tools that have been used
+      * Font Awesome
+      * Google Fonts
+      * Dev Tools
+      * GitHub
+      * GitPod
+      * Balsamiq 
+
+   
+
 
 
 
