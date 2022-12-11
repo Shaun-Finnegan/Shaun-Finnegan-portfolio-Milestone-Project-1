@@ -1,5 +1,5 @@
 # Shaun Finnegan Full Stack Software Developer
-![responsive-image](/assets/images/read me responsive.png)
+![responsive-image](/assets/images/read-me-responsive.png)
 
 [View Live Site](https://shaun-finnegan.github.io/Shaun-Finnegan-portfolio-Milestone-Project-1/ )
 
@@ -228,6 +228,35 @@ The languages used to create this project will be HTML and CSS
       Safari
 
       The site worked well on all four browsers and no descrepencies where found. 
+
+      ### Compatibility Testing
+
+      The website once deployed was tested on numerous devices to ensure consistency within the sites performance, responsiveness and accessibility.
+      the devices used to test all the above where:
+
+      Asus VivoBook Laptop
+      IPad Air 3 Tablet
+      Samsung Galaxy s8 phone
+      OPPO a72 phone
+
+
+      ### Responsiveness Testing
+
+      The responsivenss of the website was tested on all of the above mentioned devices, as well as using the responsive screen view in Google Chrome Dev Tools. 
+      The use of CSS grid for the layout of the website really helped with the responsiveness of the site and there seems to be no issues on any screen size.
+
+
+      ## Validator Testing
+
+      ### HTML
+
+      The html was twested using [W3C Validator](https://validator.w3.org/) and these are the issues that where flagged and corrected before submission.
+
+
+
+
+
+
 
    
 
