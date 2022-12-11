@@ -308,6 +308,20 @@ The languages used to create this project will be HTML and CSS
 
      ![css-grid-1](/assets/images/css-grid-768.png)
 
+     ### Bug
+     When the site was viewed on different size devices the images of the home page and the projects page wearn't as responsive as I would like them to have been and appeared squashed and pixelated on smaleer screens.
+
+     ### Solution
+
+     I mentioned this problem to my mentor and he advised that I look at a css propety object-fit.
+     upon further research using the website [w3Schools](https://www.w3schools.com/csS/css3_object-fit.asp) i applied the following property to the profile image and project page image.
+
+     ![object-fit](/assets/images/object-fit.png)
+
+
+
+
+
 
 
 
