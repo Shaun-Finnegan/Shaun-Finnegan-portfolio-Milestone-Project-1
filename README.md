@@ -252,15 +252,35 @@ The languages used to create this project will be HTML and CSS
 
       The html was twested using [W3C Validator](https://validator.w3.org/) and these are the issues that where flagged and corrected before submission.
 
+      ### Index page
 
-      ### CSS
+      ![Index-html-validation](/assets/images/index-html-validator.png)
+
+      ### About Page
+
+      ![About-html-validation](/assets/images/about-html-validator.png)
+
+      ### Projects Page
+
+      ![Projects-html-validation](/assets/images/project-pt1-html-validator.png)
+      ![Projects-html-validation](/assets/images/projects-html-validator.png)
+
+     ### Contact Page
+
+     ![Contact-html-validation](/assets/images/contact-html-validator.png)
+
+
+
+     ### CSS
 
       The CSS for this project was tested using the [W3C CSS Validation service](https://jigsaw.w3.org/css-validator/) and these where the issues that where flagged an resolved before submission.
 
+       ![css-validation](/assets/images/css-validator.png)
 
 
 
-      ## Performance and Accesibility Testing
+
+     ## Performance and Accesibility Testing
 
       To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) and for desktop devices I was very pleased with the results. (See image Below)
 
@@ -271,7 +291,7 @@ The languages used to create this project will be HTML and CSS
 
       ![Lighthouse-report-mobile](/assets/images/lighthouse-report-mobile.png)
 
-      
+
 
 
 
