@@ -267,14 +267,14 @@ The languages used to create this project will be HTML and CSS
 
       ### Contact Page
 
-      ![html-validation](assets/images/contact-html-validator.png)
+      ![html-validation](/assets/images/contact-html-validator.png)
 
 
      ### CSS
 
       The CSS for this project was tested using the [W3C CSS Validation service](https://jigsaw.w3.org/css-validator/) and these where the issues that where flagged an resolved before submission.
 
-       ![css-validation](assets/images/css-validator.png)
+       ![css-validation](/assets/images/css-validator.png)
 
 
 
@@ -284,12 +284,12 @@ The languages used to create this project will be HTML and CSS
       To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) 
       and for desktop devices I was very pleased with the results. (See image Below)
 
-      ![lighthouse-report](assets/images/lighthouse-report.png)
+      ![lighthouse-report](/assets/images/lighthouse-report.png)
 
       However on mobile there needs to be a slight improvement as the performance was 89%
       (See Image Below)
 
-      ![lighthouse-report-mobile](assets/images/lighthouse-report-mobile.png)
+      ![lighthouse-report-mobile](/assets/images/lighthouse-report-mobile.png)
 
 
 
@@ -304,11 +304,11 @@ The languages used to create this project will be HTML and CSS
      Using the CSS grid property and grid template areas I was able to achieve the layouts that I desired for each page at different screen sizes.
      (See code below)
      
-     ![css-grid](assets/images/css-grid-576.png)
+     ![css-grid](/assets/images/css-grid-576.png)
 
-     ![css-grid-1](assets/images/css-grid-768.png)
+     ![css-grid-1](/assets/images/css-grid-768.png)
 
-     
+
 
 
 
