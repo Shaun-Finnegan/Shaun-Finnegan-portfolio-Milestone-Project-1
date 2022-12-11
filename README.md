@@ -219,6 +219,7 @@ The languages used to create this project will be HTML and CSS
 
       ## Testing
 
+     
       ### Cross Platform Testing
       
       Once deployed the site was tested on for seperate browsers, the browsers used where.
@@ -229,6 +230,8 @@ The languages used to create this project will be HTML and CSS
 
       The site worked well on all four browsers and no descrepencies where found. 
 
+      
+      
       ### Compatibility Testing
 
       The website once deployed was tested on numerous devices to ensure consistency within the sites performance, responsiveness and accessibility.
@@ -240,51 +243,62 @@ The languages used to create this project will be HTML and CSS
       OPPO a72 phone
 
 
+      
+      
       ### Responsiveness Testing
 
       The responsivenss of the website was tested on all of the above mentioned devices, as well as using the responsive screen view in Google Chrome Dev Tools. 
       The use of CSS grid for the layout of the website really helped with the responsiveness of the site and there seems to be no issues on any screen size.
 
 
+     
+     
       ## Validator Testing
 
-      ### HTML
+      
+      ## HTML
 
       The html was twested using [W3C Validator](https://validator.w3.org/) and these are the issues that where flagged and corrected before submission.
 
+      
       ### Index page
 
       ![Index-html-validation](/assets/images/index-html-validator.png)
 
+     
       ### About Page
 
       ![About-html-validation](/assets/images/about-html-validator.png)
 
+     
       ### Projects Page
 
       ![Projects-html-validation](/assets/images/project-pt1-html-validator.png)
       ![Projects-html-validation](/assets/images/projects-html-validator.png)
 
+      
       ### Contact Page
 
       ![html-validation](/assets/images/contact-html-validator.png)
 
 
-     ### CSS
+      
+      ## css
 
       The CSS for this project was tested using the [W3C CSS Validation service](https://jigsaw.w3.org/css-validator/) and these where the issues that where flagged an resolved before submission.
 
-       ![css-validation](/assets/images/css-validator.png)
+      ![css-validation](/assets/images/css-validator.png)
 
 
+       
+       ## Performance and Accesibility Testing
 
-
-     ## Performance and Accesibility Testing
-
-      To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) 
+       To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) 
       and for desktop devices I was very pleased with the results. (See image Below)
 
       ![lighthouse-report](/assets/images/lighthouse-report.png)
+
+
 
       However on mobile there needs to be a slight improvement as the performance was 89%
       (See Image Below)
@@ -293,30 +307,55 @@ The languages used to create this project will be HTML and CSS
 
 
 
-     ## Bugs
+       
+       
+       ## Bugs
 
-     The Bugs that where encountered during the build and test of this site where fixed upon encountering the bugs. The solutions that where found wherefixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
+       The Bugs that where encountered during the build and test of this site where fixed upon encountering the bugs. The solutions that where found wherefixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
 
-     ### Bug
-     Not being able to change the layout of the site effectively whilst testing the responsiveness of the site at each breakpoint outlined within the Media Quiries.
+       ### Bug
+       Not being able to change the layout of the site effectively whilst testing the responsiveness of the site at each breakpoint outlined within the Media Quiries.
 
-     ### Solution
-     Using the CSS grid property and grid template areas I was able to achieve the layouts that I desired for each page at different screen sizes.
-     (See code below)
+       ### Solution
+       Using the CSS grid property and grid template areas I was able to achieve the layouts that I desired for each page at different screen sizes.
+       (See code below)
      
-     ![css-grid](/assets/images/css-grid-576.png)
+       ![css-grid](/assets/images/css-grid-576.png)  
 
-     ![css-grid-1](/assets/images/css-grid-768.png)
+       ![css-grid-1](/assets/images/css-grid-768.png)
 
-     ### Bug
-     When the site was viewed on different size devices the images of the home page and the projects page wearn't as responsive as I would like them to have been and appeared squashed and pixelated on smaleer screens.
 
-     ### Solution
 
-     I mentioned this problem to my mentor and he advised that I look at a css propety object-fit.
-     upon further research using the website [w3Schools](https://www.w3schools.com/csS/css3_object-fit.asp) i applied the following property to the profile image and project page image.
+       ### Bug
+       When the site was viewed on different size devices the images of the home page and the projects page wearn't as responsive as I would like them to have been and appeared squashed and pixelated on smaleer screens.
 
-     ![object-fit](/assets/images/object-fit.png)
+       ### Solution
+
+       I mentioned this problem to my mentor and he advised that I look at a css propety object-fit.
+       upon further research using the website [w3Schools](https://www.w3schools.com/csS/  css3_object-fit.asp) i applied the following property to the profile image and project page image.
+
+       ![object-fit](/assets/images/object-fit.png)  
+
+
+       ### Bug
+
+       Adding animation to the site was very much a trial and error process I felt it was important to add further animation to the content as to keep the user interested whilst spending the time on the site and through research I found that most developers with portfolio sites tend to use animation.
+       
+       The main bug was finding a way to effectively animate the text on the home and project psages.
+
+       ### Solution
+
+       The best way that I found to resolve this so that the text would fade in as the page loads was to use  the @keyframe property. This allowed me to control the time delay between the different lines of content fading in so that the transition looked smooth and professional.
+       (See image below)
+
+       ![keyframe](/assets/images/keyframes.png)  
+
+
+
+
+
+
+
 
 
 
