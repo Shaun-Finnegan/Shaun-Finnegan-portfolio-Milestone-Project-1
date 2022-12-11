@@ -270,7 +270,6 @@ The languages used to create this project will be HTML and CSS
      ![Contact-html-validation](/assets/images/contact-html-validator.png)
 
 
-
      ### CSS
 
       The CSS for this project was tested using the [W3C CSS Validation service](https://jigsaw.w3.org/css-validator/) and these where the issues that where flagged an resolved before submission.
@@ -282,7 +281,8 @@ The languages used to create this project will be HTML and CSS
 
      ## Performance and Accesibility Testing
 
-      To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) and for desktop devices I was very pleased with the results. (See image Below)
+      To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) 
+      and for desktop devices I was very pleased with the results. (See image Below)
 
       ![Lighthouse-report](/assets/images/lighthouse-report.png)
 
