@@ -253,6 +253,29 @@ The languages used to create this project will be HTML and CSS
       The html was twested using [W3C Validator](https://validator.w3.org/) and these are the issues that where flagged and corrected before submission.
 
 
+      ### CSS
+
+      The CSS for this project was tested using the [W3C CSS Validation service](https://jigsaw.w3.org/css-validator/) and these where the issues that where flagged an resolved before submission.
+
+
+
+
+      ## Performance Testing
+
+      To test the overall performance of the sight i used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) and for desktop devices I was very pleased with the results. (See image Below)
+
+      ![Lighthouse-report](/assets/images/lighthouse-report.png)
+
+      However on mobile there needs to be a slight improvement as the performance was 89%
+      (See Image Below)
+
+      ![Lighthouse-report-mobile](/assets/images/lighthouse-report-mobile.png)
+
+      
+
+
+
+
 
 
 
