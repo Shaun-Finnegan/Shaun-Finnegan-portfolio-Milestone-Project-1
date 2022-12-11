@@ -293,6 +293,25 @@ The languages used to create this project will be HTML and CSS
 
 
 
+     ## Bugs
+
+     The Bugs that where encountered during the build and test of this site where fixed upon encountering the bugs. The solutions that where found wherefixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
+
+     ### Bug
+     Not being able to change the layout of the site effectively whilst testing the responsiveness of the site at each breakpoint outlined within the Media Quiries.
+
+     ### Solution
+     Using the CSS grid property and grid template areas I was able to achieve the layouts that I desired for each page at different screen sizes.
+     (See code below)
+     
+     ![css-grid](assets/images/css-grid-576.png)
+
+     ![css-grid-1](assets/images/css-grid-768.png)
+
+     
+
+
+
 
 
       
