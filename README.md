@@ -260,9 +260,9 @@ The languages used to create this project will be HTML and CSS
 
 
 
-      ## Performance Testing
+      ## Performance and Accesibility Testing
 
-      To test the overall performance of the sight i used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) and for desktop devices I was very pleased with the results. (See image Below)
+      To test the overall performance and accessiblity of the site I used the [The Google Chrome Lighthouse extension](https://developer.chrome.com/docs/lighthouse/overview/) and for desktop devices I was very pleased with the results. (See image Below)
 
       ![Lighthouse-report](/assets/images/lighthouse-report.png)
 
@@ -270,6 +270,10 @@ The languages used to create this project will be HTML and CSS
       (See Image Below)
 
       ![Lighthouse-report-mobile](/assets/images/lighthouse-report-mobile.png)
+
+      
+
+
 
       
 
