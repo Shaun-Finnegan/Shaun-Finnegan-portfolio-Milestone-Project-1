@@ -30,15 +30,18 @@ The languages used to create this project will be HTML and CSS
     * Contact Page
     * Footer
     * Links to Socail Media
+
 4. Technologies Used
     * Programming Languages
     * Tools
+
 5. Testing
     * Validator tests
     * Cross Platform tests
     * Performance Tests
     * Responsiveness
     * User Testing
+    
 6. Bugs
 7. Deployment
 8. credits
@@ -349,6 +352,47 @@ The languages used to create this project will be HTML and CSS
        (See image below)
 
        ![keyframe](/assets/images/keyframes.png)  
+
+
+       ## Wishlist
+
+       Upon the sites completion there are a few things which could have been added in order to improve the overall project.
+
+       The use of Javascript would have been advantages in order to allow the navigationmenu to become more responsive.
+
+       Also the use of Javascript for additional animation on the site to further improve upon the user experience.
+
+
+       ## Deployment
+
+      1. Here is a step by step guide to how the project was deployed on GitHub Pages.
+        * Firstly The Code Institute provided a [Template]( https://github.com/Code-Institute-Org/ 
+          gitpod-full-template) which was used for the project.
+        
+        * Next a new repository was created using the Code Institute Template and was named accordingly.
+
+        * Using the git pod extension (green GitPod button at the top right of the repository) the project was created within GitPod.
+
+        * During the build process the code was regularly saved, commited and then pushed to GitHub.
+
+        * To deploy the site on GitHub pages I navigated to the repo settings tab, choose the main branch and pressed save. This provided the following url https://shaun-finnegan.github.io/Shaun-Finnegan-portfolio-Milestone-Project-1/ which is the link to the live site.
+
+        
+      2. To run this project on your machine you should:
+        
+          * Go to the roject repository https://github.com/Shaun-Finnegan/Shaun-Finnegan-portfolio-Milestone-Project-1
+
+          * Click on the code button and download the .zip file
+
+          * Then extract the .zip file so that the files are now on your machine.
+
+          * Run the index.html file on your choosen browser.
+
+
+
+
+
+
 
 
 
