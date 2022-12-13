@@ -389,38 +389,38 @@ The languages used to create this project will be HTML and CSS
           * Run the index.html file on your choosen browser.
 
 
-     ## Credits
+       ## Credits
 
-     ### Code Institute
-     A Massive thank you to the team at Code Institute who have provided me with the opportunity to be able to study and learn the basics of HTML and CSS.
+       ### Code Institute
+       A Massive thank you to the team at Code Institute who have provided me with the opportunity to be able to study and learn the basics of HTML and CSS.
 
-     ### Shipley College
-     Also a massive thank you to the team at Shipley College who have been so supportive and helpful throughout my studies and the duration of this project.
+       ### Shipley College
+       Also a massive thank you to the team at Shipley College who have been so supportive and helpful throughout my studies and the duration of this project.
 
-     ### Google Fonts
-     Google fonts was used to provide the main font families that where used throughout this project.
+       ### Google Fonts
+       Google fonts was used to provide the main font families that where used throughout this project.
 
-     ### Brad Travers and Florin Pop
-     A Massive thank you to Brad and Florin who built the Udemy course "50 Projects in 50 days"
+       ### Brad Travers and Florin Pop
+       A Massive thank you to Brad and Florin who built the Udemy course "50 Projects in 50 days"
      (https://www.udemy.com/course/50-projects-50-days/) 
-     which allowed me to follow along with three walkthrough projects using HTML, CSS and Javascript which allowed me to further my understanding of web development. The three walkthrough projects that where undertaken can be seen on the "Projects" page of this website.
+      which allowed me to follow along with three walkthrough projects using HTML, CSS and Javascript which allowed me to further my understanding of web development. The three walkthrough projects that where undertaken can be seen on the "Projects" page of this website.
 
-     ### Am I Responsive
-     [Am I Responsive](https://ui.dev/amiresponsive) was used to create the Images at the top of this README.md file to showcase the responsiveness of thwe website.
+      ### Am I Responsive
+      [Am I Responsive](https://ui.dev/amiresponsive) was used to create the Images at the top of this README.md file to showcase the responsiveness of thwe website.
 
-     ### FontAwesome
-     FontAwesome was used to provide the icons that appear on the "Languages I am learning" section of this project as well as for the social media links in the footer section.
+      ### FontAwesome
+      FontAwesome was used to provide the icons that appear on the "Languages I am learning" section of this project as well as for the social media links in the footer section.
 
-     ### Skill Thrive
-     Skill Thrive's video tutorial [Learn How to Make a Responsive CSS Grid Layout](https://www.youtube.com/watch?v=_gef_lj0FXc) provided the basis of the layout for this project, However what was taught has been modified to suit the particular needs of this project.
+      ### Skill Thrive
+      Skill Thrive's video tutorial [Learn How to Make a Responsive CSS Grid Layout](https://www.youtube.com/watch?v=_gef_lj0FXc) provided the basis of the layout for this project, However what was taught has been modified to suit the particular needs of this project.
 
-     ### w3schools
-     The Object-fit property was suggested to me by my mentor to help with the responsivenss of the images that where being used throughout the project. [w3schools](https://www.w3schools.com/csS/css3_object-fit.asp) helped me to gain a good understanding of this property and allowed me to use it within this project. This is also for the Keyframes ruleset which serves as a basis for the animation that were used within this project.
+      ### w3schools
+      The Object-fit property was suggested to me by my mentor to help with the responsivenss of the images that where being used throughout the project. [w3schools](https://www.w3schools.com/csS/css3_object-fit.asp) helped me to gain a good understanding of this property and allowed me to use it within this project. This is also for the Keyframes ruleset which serves as a basis for the animation that were used within this project.
 
-     ### Hubspot
-    The [Hubspot](https://blog.hubspot.com/website/css-fade-in) article also proved invaluable to the project as this built on the idea of using the keyframes ruleset and the animation property to allow text to fade in within a designated timeframes once a particluar page had loaded.
+      ### Hubspot
+      The [Hubspot](https://blog.hubspot.com/website/css-fade-in) article also proved invaluable to the project as this built on the idea of using the keyframes ruleset and the animation property to allow text to fade in within a designated timeframes once a particluar page had loaded.
 
-    All other code within this project was created by myself, based on my lesarning whilst studying the Level 5 Diploma in Web Application Development with The Code Institute.
+      All other code within this project was created by myself, based on my lesarning whilst studying the Level 5 Diploma in Web Application Development with The Code Institute.
 
 
 
