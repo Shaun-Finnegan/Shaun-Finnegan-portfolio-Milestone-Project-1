@@ -11,41 +11,40 @@ The languages used to create this project will be HTML and CSS
 
 ## Table of Contents
 1. User Experience
-    * Project Goals
-    * User Experience
-    * User Stories
+    * [Project Goals](#project-goals)
+    * [User Experience](#user-experience)
+    * [User Stories](#user-stories)
 
 2. Design
-    * Wireframes
-    * Typeography
-    * Structure
+    * [Wireframes](#wireframes)
+    * [Typeography](#typeography)
+    * [Structure](#structure)
 
 3. Features
-    * Active Navigation
-    * Profile Image
-    * Introduction
-    * About Me 
-    * Languages I'm Learning
-    * Projects Page
-    * Contact Page
-    * Footer
-    * Links to Socail Media
+    * [Active Navigation](#active-navigation-bar-and-logo)
+    * [Introduction and Profile Image](#introduction-and-profile-image)
+    * [About Me](#about-me-section)
+    * [Languages I am learning](#languages-i-am-learning-section)
+    * [Projects Page](#projects-section)
+    * [Contact Page](#contact-page)
+    * [footer](#footer)
+    
 
 4. Technologies Used
-    * Programming Languages
-    * Tools
+    * [Programming Languages](#technologies-used)
+    * [Tools](#technologies-used)
 
 5. Testing
-    * Validator tests
-    * Cross Platform tests
-    * Performance Tests
-    * Responsiveness
-    * User Testing
-    
-6. Bugs
-7. Improvements/ Wishlist
-8. Deployment
-9. credits
+    * [Cross Platform Testing](#cross-platform-testing)
+    * [Compatability Testing](#compatibility-testing)
+    * [Responsiveness testing](#responsiveness-testing)
+    * [Validator Testing](#validator-testing)
+    * [Performance and accesibility testing](#performance-and-accesibility-testing)
+
+6. [Bugs](#bugs)
+7. [Wishlist](#wishlist)
+8. [Deployment](#deployment)
+9.  [Credits](#credits)
 
 ## User Experience
 
