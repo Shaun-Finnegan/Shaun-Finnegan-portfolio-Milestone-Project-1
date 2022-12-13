@@ -400,6 +400,10 @@ The languages used to create this project will be HTML and CSS
        ### Google Fonts
        Google fonts was used to provide the main font families that where used throughout this project.
 
+       ### Pixabay
+       A massive thank you to [Pixabay](https://www.pexels.com/photo/macro-shot-of-wooden-planks-326333/) for supplying the main background image that was consistently used for the entire project.
+
+
        ### Brad Travers and Florin Pop
        A Massive thank you to Brad and Florin who built the Udemy course "50 Projects in 50 days"
      (https://www.udemy.com/course/50-projects-50-days/) 
