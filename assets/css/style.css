@@ -850,6 +850,8 @@ textarea {
    text-decoration: underline;
 }
 
+
+
 /*Projects media quiries*/
 @media screen and (min-width: 576px){
    .wrapper-projects{
