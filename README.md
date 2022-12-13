@@ -133,7 +133,7 @@ The languages used to create this project will be HTML and CSS
      * [Mobile](assets/images/contact-mobile.png)
      * [Tablet](assets/images/Contact-tablet.png)
      * [Desktop](assets/images/Contact-large.png)
-     
+
 
 
 
@@ -200,7 +200,7 @@ The languages used to create this project will be HTML and CSS
      The Projects Section consists of 3 subsections. Each section  consists of the title of the project and image of the final project, a written description of the project and a button which is a link to each projects GitHub repository.
       The images are placed below the title and above the written description when the site is viewed on mobile and tablet devices however this changes when the site is viewed on larger screens as the images appear next to the descriptions ( See image below).
 
-      ![projects-section](/workspace/Shaun-Finnegan-portfolio-Milestone-Project-1/assets/images/projects-section.png)
+      ![projects-section](assets/images/projects-section.png)
 
 
     ### Contact Page
@@ -444,7 +444,7 @@ The languages used to create this project will be HTML and CSS
       ### Hubspot
       The [Hubspot](https://blog.hubspot.com/website/css-fade-in) article also proved invaluable to the project as this built on the idea of using the keyframes ruleset and the animation property to allow text to fade in within a designated timeframes once a particluar page had loaded.
 
-      All other code within this project was created by myself, based on my lesarning whilst studying the Level 5 Diploma in Web Application Development with The Code Institute.
+      All other code within this project was created by myself, based on my learning whilst studying the Level 5 Diploma in Web Application Development with The Code Institute.
 
 
 
