@@ -156,7 +156,8 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
   margin-top: 12.5%;
   object-fit: none;
   }
-
+/*The use of the keyframes ruleset was learnt from (https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
+however has been modified for the purpose of this project*/
 @keyframes fadeIn {
   0% {
     opacity: 0;
@@ -175,6 +176,9 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
   animation-direction: alternate;
   animation-timing-function: ease-in;
 }
+
+/* The use of the animation property was learnt from (https://blog.hubspot.com/website/css-fade-in#text-transition)
+and what I learnt was modified to suit the needs of this project*/
 
 .intro h2{
   font-size: 250%;
