@@ -112,27 +112,28 @@ The languages used to create this project will be HTML and CSS
  The wireframes below where created throughout the design process with a mobile first approach in mind. The wireframes where created with a software called [Balsamiq](https://balsamiq.com/wireframes/)
 
  1. Home Page
-     * Mobile
-     * Tablet
-     * Desktop
+     * [Mobile](assets/images/Home-mobile.png)
+     * [Tablet](assets/images/Home-tablet.png)
+     * [Desktop](assets/images/Home-large.png)
 
 
  2. About Me Page
-     * Mobile
-     * Tablet
-     * Desktop
+     * [Mobile](assets/images/About-me-mobile.png)
+     * [Tablet](assets/images/About-me-tablet.png)
+     * [Desktop](assets/images/about-me-large.png)
 
 
  3. Projects Page
-     * Mobile
-     * Tablet
-     * Desktop
+     * [Mobile](assets/images/Projects-mobile.png)
+     * [Tablet](assets/images/Projects-tablet.png)
+     * [Desktop](assets/images/Projects-large.png)
 
 
  4. Contact Page
-     * Mobile
-     * Tablet
-     * Desktop
+     * [Mobile](assets/images/contact-mobile.png)
+     * [Tablet](assets/images/Contact-tablet.png)
+     * [Desktop](assets/images/Contact-large.png)
+     
 
 
 
