@@ -43,9 +43,9 @@ The languages used to create this project will be HTML and CSS
     * User Testing
     
 6. Bugs
-7. Deployment
-8. credits
-9. Improvements/ Wishlist
+7. Improvements/ Wishlist
+8. Deployment
+9. credits
 
 ## User Experience
 
@@ -116,14 +116,20 @@ The languages used to create this project will be HTML and CSS
      * Mobile
      * Tablet
      * Desktop
+
+
  2. About Me Page
      * Mobile
      * Tablet
      * Desktop
+
+
  3. Projects Page
      * Mobile
      * Tablet
      * Desktop
+
+
  4. Contact Page
      * Mobile
      * Tablet
