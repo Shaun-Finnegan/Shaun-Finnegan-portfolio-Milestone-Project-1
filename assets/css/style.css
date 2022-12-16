@@ -172,7 +172,6 @@ however has been modified for the purpose of this project*/
   font-family: 'Pacifico', cursive;
   font-size: 250%;
    cursor: pointer;
-   margin-top: 25%;
    padding :25px;
   animation: fadeIn 2s;
   animation-direction: alternate;
@@ -185,8 +184,6 @@ and what I learnt was modified to suit the needs of this project*/
 .intro h2{
   font-size: 250%;
     cursor: pointer;
-    margin-top: 5%;
-    padding: 25px;
   animation: fadeIn 4s;
   animation-direction: alternate;
   animation-timing-function: ease-in;
@@ -196,8 +193,6 @@ and what I learnt was modified to suit the needs of this project*/
 .intro h3{
   font-size: 250%;
    cursor: pointer;
-   padding: 25px;
-   margin-top: 5%;
   animation: fadeIn 6s;
   animation-direction: alternate;
   animation-timing-function: ease-in;
@@ -208,7 +203,6 @@ and what I learnt was modified to suit the needs of this project*/
   font-size: 250%;
   margin-bottom: 10%;
    cursor: pointer;
-   padding: 25px;
   animation: fadeIn 8s;
   animation-direction: alternate;
   animation-timing-function: ease-in;
