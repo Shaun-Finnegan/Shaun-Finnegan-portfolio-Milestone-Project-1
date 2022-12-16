@@ -216,7 +216,7 @@ The languages used to create this project will be HTML and CSS
     Message
      If any of these fields are left empty the user will be prompted to fill in the missing field.
 
-     ![contact-page](assets/images/contact-section.png)
+     ![contact-page](assets/images/contact.png)
 
 
      ### footer
