@@ -3,9 +3,9 @@
 
 [View Live Site](https://shaun-finnegan.github.io/Shaun-Finnegan-portfolio-Milestone-Project-1/ )
 
-Welcome to Shaun Finnegan's portfolio website! This site will aim to showcase my work as I progress through my software development journey. The website will help both new and returning users to understand what projects I have worked on in the past, what projects I am currently working on and the skills I have gained and am working to develop. As well as allowing any users to get in touch with any questions or requests that they may have.
+Welcome to Shaun Finnegan's portfolio website! This sitenew and returning users  I progress through my software development journey. The website will help both new and returning users to understand what projects I have worked on in the past, what projects I am currently working on, and the skills I have gained and am working to develop. As well as allowing any users to get in touch with any questions or requests that they may have.
 
-The aim of this site is to provide an easy and accessible experience to any user wishing to view my site on any device. To allow the user to easily navigate between pages and to easily fnd the information they are searching for.
+This site aims to provide an easy and accessible experience to any user wishing to view my site on any device. To allow the user to easily navigate between pages and to easily find the information they are searching for.
 
 The languages used to create this project will be HTML and CSS
 
@@ -17,7 +17,7 @@ The languages used to create this project will be HTML and CSS
 
 2. Design
     * [Wireframes](#wireframes)
-    * [Typeography](#typeography)
+    * [Typography](#typography)
     * [Structure](#structure)
 
 3. Features
@@ -46,9 +46,8 @@ The languages used to create this project will be HTML and CSS
 8. [Deployment](#deployment)
 9.  [Credits](#credits)
 
-## User Experience
 
-### Project Goals
+## Project Goals
 
 #### User Goals:
 
@@ -60,7 +59,7 @@ The languages used to create this project will be HTML and CSS
 #### Site Owner Goals:
 * To allow visitors to understand what it is that I do
 * To give users an easy intuitive  and asthetically pleasing experience whilst using the site
-* To encourage users to reach out and make contact by using call to actions
+* To encourage users to reach out and make contact by using call to action
 * To give users a positive experience that will encourage them to return to the site
 
 ## User Experience
@@ -68,23 +67,23 @@ The languages used to create this project will be HTML and CSS
  ### Target Audience
 
  * Prospective employers/Clients
- * Other Software Engineers looking to collaberate
+ * Other Software Engineers looking to collaborate
 
  ### Requirements and Expectations
 
  * A fully functioning and responsive website
  * A site that is easy to navigate
- * A site that is asthetically pleasing
- * A way to contact the sites owner via a contact page
+ * an asthetically pleasing site
+ * A way to contact the owner of the site via a contact page
  * A site that allows the user to find what they are looking for in no less than 3 clicks
- * Links to github repositorys and social media pages
+ * Links to GitHub repositories and social media pages
 
 
  ## User Stories
 
  ### First time User
 
- A first time user should be able to :
+ A first-time user should be able to :
 
  * Arrive on the site and immediatley understand what the site is about
  * Easily understand the site layout and be able to naviagate between the different pages
@@ -96,7 +95,7 @@ The languages used to create this project will be HTML and CSS
  A returning user should be able to:
  
  * Find the projects page and be able to access the GitHub repositorys
- * Be ale to Contact the sites owner via the contact page
+ * Be able to Contact the owner of the site via the contact page
 
 
  ### Site Owner
@@ -138,11 +137,11 @@ The languages used to create this project will be HTML and CSS
 
 
     ## Color Scheme
-    The color scheme I have choosen for the site is based on the main background image for the site. the dominant color of the image is brown and Upon furthe research into color schemes I found this particular color scheme from [schemecolor.com](https://www.schemecolor.com/tan-brown-white-black.php#:~:text=Tan%20Brown%2C%20White%20%26%20Black%20Color%20Scheme%20The,This%20color%20combination%20was%20created%20by%20user%20Manish.).
+    The color scheme I have chosen for the site is based on the main background image for the site. the dominant color of the image is brown and Upon further research into color schemes, I found this particular color scheme from [schemecolor.com](https://www.schemecolor.com/tan-brown-white-black.php#:~:text=Tan%20Brown%2C%20White%20%26%20Black%20Color%20Scheme%20The,This%20color%20combination%20was%20created%20by%20user%20Manish.).
 
-    deciding to keep the site as simple as posiible asthetically along with the brown I have decided upon the two additional colors of white (#fff) and black (#000)
+    deciding to keep the site as simple as possible aesthetically along with the brown I have decided upon the two additional colors of white (#fff) and black (#000)
 
-    ## Typeography
+    ## Typography
 
     The fonts used within this project are pacifico and Areial, the decision behind this is that they are both commonly used wityhin website design and appear to compliment each other well. The pacifico font is primarily used for headings to help them stand out and the arial font for the main content to ensure the text is easy to read on any device size.
 
@@ -160,7 +159,7 @@ The languages used to create this project will be HTML and CSS
 
     ### Active Navigation Bar and Logo
     
-     The Navigation bar is situated at the top of each page on the website. It follows standard conventions within Web development and Web design. This ensures that users know what to expect when immediatley entering the website.
+     The Navigation bar is situated at the top of each page on the website. It follows standard conventions within Web development and Web design. This ensures that users know what to expect when immediately entering the website.
 
      The Navigation Bar has 4 links including "Home" "About" "Projects" and "Xontact". When the users hovers over each navigation link it will appear underlined and when the user navigates to a particular page that page the title of that page will be underlined within the navigationbar so that the user knows exactly where they are within the structure of the website.
 
@@ -213,7 +212,7 @@ The languages used to create this project will be HTML and CSS
     Last Name
     Email
     Message
-     The first 3 fields are required information and if one of the fields is incomplete there will be a prompt to remind the user to complete the missing information.
+     If any of these fields are left empty the user will be prompted to fill in the missing field.
 
      ![contact-page](assets/images/contact-section.png)
 
@@ -245,7 +244,7 @@ The languages used to create this project will be HTML and CSS
      
       ### Cross Platform Testing
       
-      Once deployed the site was tested on for seperate browsers, the browsers used where.
+      Once deployed the site was tested on four seperate browsers, the browsers used where.
       Google Chrome
       Mozilla Firefox
       Microsoft Edge
@@ -281,7 +280,7 @@ The languages used to create this project will be HTML and CSS
       
       ## HTML
 
-      The html was twested using [W3C Validator](https://validator.w3.org/) and these are the issues that where flagged and corrected before submission.
+      The HTML was tested using [W3C Validator](https://validator.w3.org/) and these are the issues that were flagged and corrected before submission.
 
       
       ### Index page
@@ -334,7 +333,7 @@ The languages used to create this project will be HTML and CSS
        
        ## Bugs
 
-       The Bugs that where encountered during the build and test of this site where fixed upon encountering the bugs. The solutions that where found wherefixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
+       The Bugs that were encountered during the build and test of this site were fixed upon encountering the bugs. The solutions that were found wherefixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
 
        ### Bug
        Not being able to change the layout of the site effectively whilst testing the responsiveness of the site at each breakpoint outlined within the Media Quiries.
@@ -355,16 +354,16 @@ The languages used to create this project will be HTML and CSS
        ### Solution
 
        I mentioned this problem to my mentor and he advised that I look at a css propety object-fit.
-       upon further research using the website [w3Schools](https://www.w3schools.com/csS/  css3_object-fit.asp) i applied the following property to the profile image and project page image.
+       upon further research using the website [w3Schools](https://www.w3schools.com/csS/  css3_object-fit.asp), I applied the following property to the profile image and project page image.
 
        ![object-fit](/assets/images/object-fit.png)  
 
 
        ### Bug
 
-       Adding animation to the site was very much a trial and error process I felt it was important to add further animation to the content as to keep the user interested whilst spending the time on the site and through research I found that most developers with portfolio sites tend to use animation.
+       Adding animation to the site was very much a trial-and-error process I felt it was important to add further animation to the content as to keep the user interested whilst spending the time on the site through research I found that most developers with portfolio sites tend to use animation.
        
-       The main bug was finding a way to effectively animate the text on the home and project psages.
+       The main bug was finding a way to effectively animate the text on the home and project pages.
 
        ### Solution
 
@@ -376,7 +375,7 @@ The languages used to create this project will be HTML and CSS
 
        ## Wishlist
 
-       Upon the sites completion there are a few things which could have been added in order to improve the overall project.
+       Upon the completion of the site, there are a few things that could have been added to improve the overall project.
 
        The use of Javascript would have been advantages in order to allow the navigationmenu to become more responsive.
 
