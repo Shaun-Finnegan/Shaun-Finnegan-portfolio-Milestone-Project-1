@@ -1,7 +1,7 @@
 # Shaun Finnegan Full Stack Software Developer
-![responsive-image](/assets/images/read-me-responsive.png)
+![responsive-image](assets/images/am-i-responsive.png)
 
-[View Live Site](https://shaun-finnegan.github.io/Shaun-Finnegan-portfolio-Milestone-Project-1/ )
+[View Live Site](https://shaun-finnegan.github.io/Shaun-Finnegan-portfolio-Milestone-Project-1/)
 
 Welcome to Shaun Finnegan's portfolio website! This site new and returning users  I progress through my software development journey. The website will help new and returning users understand what projects I have worked on in the past, what projects I am currently working on, and the skills I have gained and am working to develop. As well as allowing any users to get in touch with any questions or requests that they may have.
 
