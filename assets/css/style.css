@@ -525,12 +525,10 @@ p{
   height: 100%;
   width: 100%;
   grid-template-columns: 1fr;
-  grid-template-rows: auto 1fr 1fr 100px;
-  gap: .2em;
+  grid-template-rows: auto 1fr 100px;
   grid-template-areas: 
     "nav"
     "form"
-    "background"
     "footer"
 }
 
@@ -948,3 +946,19 @@ textarea {
 }
 }
 }
+
+@media screen and (min-width: 576px){
+  .wrapper-contact{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr 100px;
+    grid-template-areas: 
+      "nav"
+      "form"
+      "footer"
+  }
+}
+
+
