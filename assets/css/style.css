@@ -10,18 +10,18 @@ in mind and then the layout changes using media quiries for largwer screen sizes
 45 - css grid for home page
 60 - Logo & Navigation
 130 - Home Page
-207 - css grid for About Page
-232 - About Page
-366 - css grid for projects page
-398 - Projects Page
-512 - css grid for Contact page
-528 - Contact Page
-613- Footer & Social Links
-683 - Home Page Media Quiries
-767 - About Me Media Quiries
-846 - Projects Media Quiries
+211 - css grid for About Page
+236 - About Page
+371 - css grid for projects page
+403 - Projects Page
+521 - css grid for Contact page
+536 - Contact Page
+621- Footer & Social Links
+691 - Home Page Media Quiries
+775 - About Me Media Quiries
+856 - Projects Media Quiries
+951 - Contact Page Media Quiries
 */
-
 /*Universal Styles*/
 *{
   border:0px;
@@ -948,6 +948,7 @@ textarea {
 }
 }
 
+/*Contact Page Media Quiries*/
 @media screen and (min-width: 576px){
   .wrapper-contact{
     display: grid;
