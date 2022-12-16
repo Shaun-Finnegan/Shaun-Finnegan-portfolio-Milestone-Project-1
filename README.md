@@ -161,7 +161,7 @@ The languages used to create this project will be HTML and CSS
     
      The Navigation bar is situated at the top of each page on the website. It follows standard conventions within Web development and Web design. This ensures that users know what to expect when immediately entering the website.
 
-     The Navigation Bar has 4 links including "Home" "About" "Projects" and "Xontact". When the users hovers over each navigation link it will appear underlined and when the user navigates to a particular page that page the title of that page will be underlined within the navigationbar so that the user knows exactly where they are within the structure of the website.
+     The Navigation Bar has 4 links including "Home" "About" "Projects" and "ontact". When the users hovers over each navigation link it will appear underlined and when the user navigates to a particular page that page the title of that page will be underlined within the navigationbar so that the user knows exactly where they are within the structure of the website.
 
      The Logo is also a link that when clicked will take the user to the home page. The Logo itself appears above the navigation links on all screen sizes.
 
@@ -333,7 +333,7 @@ The languages used to create this project will be HTML and CSS
        
        ## Bugs
 
-       The Bugs that were encountered during the build and test of this site were fixed upon encountering the bugs. The solutions that were found wherefixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
+       The Bugs that were encountered during the build and test of this site were fixed upon encountering the bugs. The solutions that were found where fixed by researching the problems on Google and Youtube as well as using Slack to ask questions and take advice from people who have had similar problems in the past.
 
        ### Bug
        Not being able to change the layout of the site effectively whilst testing the responsiveness of the site at each breakpoint outlined within the Media Quiries.
@@ -384,7 +384,7 @@ The languages used to create this project will be HTML and CSS
 
        ## Deployment
 
-      1. Here is a step by step guide to how the project was deployed on GitHub Pages.
+        *  Here is a step by step guide to how the project was deployed on GitHub Pages.
         * Firstly The Code Institute provided a [Template]( https://github.com/Code-Institute-Org/ 
           gitpod-full-template) which was used for the project.
         
