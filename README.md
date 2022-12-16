@@ -445,6 +445,9 @@ The languages used to create this project will be HTML and CSS
       ### Hubspot
       The [Hubspot](https://blog.hubspot.com/website/css-fade-in) article also proved invaluable to the project as this built on the idea of using the keyframes ruleset and the animation property to allow text to fade in within a designated timeframes once a particluar page had loaded.
 
+      ### TinyPNG
+      A massive thank you to [TinyPNG](https://tinypng.com/) with their online tool I have been able to compress my images to allow for faster page loading times.
+
       All other code within this project was created by myself, based on my learning whilst studying the Level 5 Diploma in Web Application Development with The Code Institute.
 
 
