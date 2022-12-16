@@ -185,6 +185,7 @@ and what I learnt was modified to suit the needs of this project*/
 .intro h2{
   font-size: 250%;
     cursor: pointer;
+    margin-top: 5%;
     padding: 25px;
   animation: fadeIn 4s;
   animation-direction: alternate;
@@ -196,7 +197,7 @@ and what I learnt was modified to suit the needs of this project*/
   font-size: 250%;
    cursor: pointer;
    padding: 25px;
-   margin-top: 30%;
+   margin-top: 5%;
   animation: fadeIn 6s;
   animation-direction: alternate;
   animation-timing-function: ease-in;
