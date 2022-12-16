@@ -172,6 +172,8 @@ The languages used to create this project will be HTML and CSS
 
      Underneath the navigation bar on the Home Page will appear a written introduction so that the user will instantly know what the website is about. The written introduction is also accompanied by a profile image so that the user has more of a connection with the portfolio website and actually get to see what the developer of the website looks like.
 
+     ![profile-intro](assets/images/profile-intro.png)
+
 
      ### About Me Section
 
