@@ -154,6 +154,7 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
   height: 55%;
   border-radius: 50%;
   margin-top: 13%;
+  margin-bottom: 5%;
   object-fit: cover;
   }
 /*The use of the keyframes ruleset was learnt from (https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
