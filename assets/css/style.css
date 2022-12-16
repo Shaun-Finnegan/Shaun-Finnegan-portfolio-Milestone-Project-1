@@ -524,6 +524,7 @@ p{
   display: grid;
   height: 100%;
   width: 100%;
+  gap: 0.2em;
   grid-template-columns: 1fr;
   grid-template-rows: auto 1fr 100px;
   grid-template-areas: 
