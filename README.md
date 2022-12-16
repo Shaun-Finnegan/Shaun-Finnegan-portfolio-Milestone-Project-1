@@ -111,27 +111,27 @@ The languages used to create this project will be HTML and CSS
  The wireframes below where created throughout the design process with a mobile first approach in mind. The wireframes where created with a software called [Balsamiq](https://balsamiq.com/wireframes/)
 
  1. Home Page
-     * [Mobile](assets/images/Home-mobile.png)
-     * [Tablet](assets/images/Home-tablet.png)
-     * [Desktop](assets/images/Home-large.png)
+     * [Mobile](assets/images/home-mobile.png)
+     * [Tablet](assets/images/home-tablet.png)
+     * [Desktop](assets/images/home-large.png)
 
 
  2. About Me Page
-     * [Mobile](assets/images/About-me-mobile.png)
-     * [Tablet](assets/images/About-me-tablet.png)
+     * [Mobile](assets/images/about-me-mobile.png)
+     * [Tablet](assets/images/about-me-tablet.png)
      * [Desktop](assets/images/about-me-large.png)
 
 
  3. Projects Page
-     * [Mobile](assets/images/Projects-mobile.png)
-     * [Tablet](assets/images/Projects-tablet.png)
-     * [Desktop](assets/images/Projects-large.png)
+     * [Mobile](assets/images/projects-mobile.png)
+     * [Tablet](assets/images/projects-tablet.png)
+     * [Desktop](assets/images/projects-large.png)
 
 
  4. Contact Page
      * [Mobile](assets/images/contact-mobile.png)
-     * [Tablet](assets/images/Contact-tablet.png)
-     * [Desktop](assets/images/Contact-large.png)
+     * [Tablet](assets/images/contact-tablet.png)
+     * [Desktop](assets/images/contact-large.png)
 
 
 
