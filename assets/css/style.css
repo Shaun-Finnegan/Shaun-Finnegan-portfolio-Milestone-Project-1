@@ -353,6 +353,7 @@ p{
   border: 1px solid #fff;
   border-radius: 15%;
   text-align: center;
+  margin-bottom: 5%;
 }
 
 .btn-container{
@@ -513,7 +514,7 @@ p{
  form.form-project{
   display: flex;
   justify-content: center;
-  margin-bottom: 5%;
+   margin-bottom: 5%;
  }
 
 
