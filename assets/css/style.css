@@ -150,8 +150,8 @@ background-image: url("https://images.pexels.com/photos/326333/pexels-photo-3263
 .profile-image {
   display:block;
   margin: auto;
-  width: 50%;
-  height: 50%;
+  width: 55%;
+  height: 55%;
   border-radius: 50%;
   margin-top: 13%;
   object-fit: cover;
